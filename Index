@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Project Proposal</title>
+    <title>2004 Elmwood Fire Adventure Game</title>
 </head>
 <style> 
     body {
@@ -11,16 +11,16 @@
     </style>
 
 <body>
-    <h1 style="font-size:100px;color:lightseagreen;">Project Proposal</h1>
+    <h1 style="font-size:100px;color:lightseagreen;">2004 Elmwood Fire Adventure Game</h1>
     <p style="color:Tomato;">
-1. Product Name: Choose your own adventure story.
-2. Team Members: myself
+1. Product Name: 2004 Elmwood Fire (Choose your own adventure story)
+2. Team Members: Connor Nitkiewicz
 3. Application Overview: A choose your own adventure story because I like to write and it would be fun to code a story with different buttons and some puzzles.
 4. Technology Overview: CSS, Java hosted on github
-5. Proposal Last Updated: 10/20/2024
-6. Feature List: need help
-7. Future Feature List: need help
-8. Basic Technical Features: need help
-9. Advanced Technical Features: need help</p>
+5. Proposal Last Updated: 11/3/2024
+6. Feature List: text with buttons to allow you to choose diffent paths to go on to continue the story
+7. Future Feature List: pop up images and texts
+8. Basic Technical Features: buttons, text, images, and website hosting.
+9. Advanced Technical Features: interactive dialogue, visuaal and audio effects</p>
 </body>
 </html>
